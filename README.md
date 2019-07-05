@@ -15,3 +15,4 @@ Praticing Swift and iOS development using the CS193p Course. Repository will be 
   * Game score added (+2 matching, -1 for mismatched and had been previously selected)
   * **TODO:** Extra Credit 1 (Change background color and card back color based on theme)
   * **TODO:** Extra Credit 2 (Time based scoring)
+* Week 2 Complete
